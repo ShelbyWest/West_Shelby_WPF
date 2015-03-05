@@ -1,10 +1,8 @@
-/**
- * Created by Shelby on 3/5/15.
- */
-var yearBorn = 1955;
+//javascript
 
-console.log("Hello World!");
-console.log(yearBorn);
+var age; //declaration
+age = 19; //definition
 
+//storage container = value
 
-alert("yearBorn");
+var yearOfBirth = 1995; //declaring and defining on the same line
