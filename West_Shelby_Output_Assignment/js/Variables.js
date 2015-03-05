@@ -5,4 +5,5 @@
  * Output Assignment
  */
 
-var 
+var languageFluency = true; //Assigned a Boolean value
+var wrestling = true; //Assigned a second Boolean value
