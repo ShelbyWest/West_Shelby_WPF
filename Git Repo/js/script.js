@@ -3,9 +3,12 @@ Shelby West
 Test JS file
 March 12, 2015
  */
-//Assignment Operators
+//Prompt and Alert
 //alert("Testing 1, 2, 3 ");
 
-var a = 3;
-a -- ; //a = a - 1 // a -= 1
-console.log(a);
+var width = prompt("We are calculating the area of a rectangle. \nPlease enter the width.");
+var height = prompt("Please enter the height.");
+var area = width * height; //calculates that info
+//console.log(area); //prints it out to the console
+var result = "The area of your rectangle is " + area + " sq feet";
+alert(result);
