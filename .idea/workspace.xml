@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb18ea94-134b-412e-bb42-b15f0916efa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Git Repo/js/script.js" afterPath="$PROJECT_DIR$/Git Repo/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="West_Shelby_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Git Repo/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3313253" vertical-offset="0" max-vertical-offset="498">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="498">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -280,7 +279,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -356,7 +355,7 @@
         <state vertical-scroll-proportion="0.4945055" vertical-offset="0" max-vertical-offset="455">
           <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -379,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Git Repo/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3313253" vertical-offset="0" max-vertical-offset="498">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="498">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
