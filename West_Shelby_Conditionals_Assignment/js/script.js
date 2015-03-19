@@ -35,9 +35,9 @@ if(numCats === ""){
     console.log("There are " +numCats+ " cats to feed."); //outputting the number of cats to feed
 }
 
-var kittens= confirm("Are there any kittens? Ok for Yes, Cancel for No"); //asking the user if there are kittens
-
 numCats = Number(numCats); //casting the variable numCats as a number
+
+var kittens= confirm("Are there any kittens? Ok for Yes, Cancel for No"); //asking the user if there are kittens
 
 if(kittens === true){
     var numKittens = prompt("How many kittens are there?"); //prompting the user for how many kittens there are
