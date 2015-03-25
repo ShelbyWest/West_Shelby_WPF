@@ -4,12 +4,16 @@ Test JS file
 March 12, 2015
  */
 //alert("Testing 1, 2, 3 ");
-//Functions - Returning Values
+//Functions - Function vs Procedure
 
-var total = calcArea(30, 20);
-
-function calcArea(w, h){
-    var area = w * h;
-    return area; //function spitting the info out
+//this is a function
+function calcAreaF(width, height){
+    var area = width * height;
+    return area;
 }
-console.log(total);
+
+//This is a procedure
+function calcAreaP(width, height){
+    var area = width * height;
+    console.log(area); //no return
+}
