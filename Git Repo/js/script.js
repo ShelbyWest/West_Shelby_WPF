@@ -4,15 +4,12 @@ Test JS file
 March 12, 2015
  */
 //alert("Testing 1, 2, 3 ");
-//Functions - Variable Scope
+//Functions - Parameters and Arguments
 
-var width = 5;
-
-function calcArea(){
-    var width = 20;
-    var height = 30;
-    var area = width * height;
-    //console.log(area);
+function dogYears(age){ //parameters 
+    var dogYears = age * 7;
+    console.log("Sparky is " + dogYears + " years old.")
 }
-console.log(width);
-calcArea();
+var age1 = 4;
+dogYears(age1);
+dogYears(5);
