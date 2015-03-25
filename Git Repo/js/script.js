@@ -4,14 +4,16 @@ Test JS file
 March 12, 2015
  */
 //alert("Testing 1, 2, 3 ");
-//Conditional Logic - Ternary Operators
+//Functions - basic structure
 
-var age = 6;
-var book;
+function outptMsa(){
+    console.log("Hello World");
+}
 
-//If child is under 10, they get Green Eggs and Ham, otherwise they get The Time Machine
-
-book = (age < 10) ? "Green Eggs and Ham" : "The Time Machine";
-console.log(book);
-
+function calcArea(){
+    var width = 20;
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
 
