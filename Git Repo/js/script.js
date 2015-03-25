@@ -4,7 +4,7 @@ Test JS file
 March 12, 2015
  */
 //alert("Testing 1, 2, 3 ");
-//Functions - basic structure
+//Functions - Function Execution
 
 function outptMsa(){
     console.log("Hello World");
@@ -17,3 +17,4 @@ function calcArea(){
     console.log(area);
 }
 
+calcArea();
