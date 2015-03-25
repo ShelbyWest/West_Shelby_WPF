@@ -4,12 +4,12 @@ Test JS file
 March 12, 2015
  */
 //alert("Testing 1, 2, 3 ");
-//Functions - Parameters and Arguments
+//Functions - Returning Values
 
-function dogYears(age){ //parameters 
-    var dogYears = age * 7;
-    console.log("Sparky is " + dogYears + " years old.")
+var total = calcArea(30, 20);
+
+function calcArea(w, h){
+    var area = w * h;
+    return area; //function spitting the info out
 }
-var age1 = 4;
-dogYears(age1);
-dogYears(5);
+console.log(total);
