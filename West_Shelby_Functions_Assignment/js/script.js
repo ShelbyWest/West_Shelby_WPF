@@ -63,7 +63,7 @@ if(whichLottery === "powerball"){ //using an if else statement to run the code f
 
 }else{ //if the user enters florida instead of powerball, this code will run
     floridaLottery = floridaLotteryNumbers(1, 53, 6); //running the florida lottery function to generate the random array of 6 numbers between 1 and 53
-    console.log("The Florida lottery numbers are" +floridaLottery+ "."); //printing to the console the Florida lottery numbers.
+    console.log("The Florida lottery numbers are " +floridaLottery+ "."); //printing to the console the Florida lottery numbers.
 }
 
 
